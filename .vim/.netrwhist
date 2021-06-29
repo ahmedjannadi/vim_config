@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/ahmed/.hax/laravel_exploit/results/env'
+let g:netrw_dirhist_6='/home/ahmed/Tridevs/internal/cms/backend-graphql/src/modules/page/services'
+let g:netrw_dirhist_5='/home/ahmed/Tridevs/internal/cms/backend-graphql/src/modules/page'
+let g:netrw_dirhist_4='/home/ahmed/Tridevs/internal/cms/backend-graphql/src/modules'
+let g:netrw_dirhist_3='/home/ahmed/Tridevs/internal/cms/backend-graphql/src'
+let g:netrw_dirhist_2='/home/ahmed/Tridevs/internal/cms/backend-graphql'
+let g:netrw_dirhist_1='/home/ahmed/.code/pfe/docs/diagrams/usecase'
+let g:netrw_dirhist_0='/home/ahmed/.code/pfe/docs/diagrams/sequence/tmp'
+let g:netrw_dirhist_9='/home/ahmed/Tridevs/internal/cms/backend-graphql/src/modules/page/resolvers'
+let g:netrw_dirhist_8='/home/ahmed/Tridevs/internal/cms/backend-graphql/src/modules/page'
